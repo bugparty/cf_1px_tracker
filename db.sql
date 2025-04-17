@@ -1,0 +1,8 @@
+CREATE TABLE IF NOT EXISTS tracking_events (
+  id INTEGER PRIMARY KEY AUTOINCREMENT,
+  uid TEXT NOT NULL,
+  timestamp DATETIME DEFAULT CURRENT_TIMESTAMP,
+  ip TEXT,
+  user_agent TEXT,
+  referer TEXT
+);
