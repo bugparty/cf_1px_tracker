@@ -77,8 +77,3 @@ Want a dashboard? Campaign support? Click tracking? Real-time confetti when some
 ## 👋 License
 
 MIT. Track freely, my friend.
-```
-
----
-
-你要不要我给它配一个爆改的 logo？比如一张 1x1 px 的图片截图，然后写上 "world's tiniest backend"? 😂
